@@ -5,14 +5,21 @@
 <h1 align="center">Strongthium Labs</h1>
 
 <p align="center">
-  <a href="https://strongthium.com">Website</a> ·
-  <a href="https://dev.to/strongthium">Dev.to</a> ·
-  <a href="https://x.com/strongthium">X</a> ·
-  <a href="https://www.youtube.com/@StrongthiumLabs">YouTube</a> ·
-  <a href="https://www.facebook.com/Strongthium-Labs">Facebook</a>
+  <a href="https://strongthium.com"><img src="https://img.shields.io/badge/Website-strongthium.com-0E8C80?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://dev.to/strongthium"><img src="https://img.shields.io/badge/Dev.to-strongthium-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"></a>
+  <a href="https://x.com/strongthium"><img src="https://img.shields.io/badge/X-@strongthium-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.youtube.com/@StrongthiumLabs"><img src="https://img.shields.io/badge/YouTube-@StrongthiumLabs-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.facebook.com/Strongthium-Labs"><img src="https://img.shields.io/badge/Facebook-Strongthium_Labs-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
 
 <!-- TODO: one or two sentences on what Strongthium Labs builds and for whom. -->
+
+## Open source
+
+| Project | What it does | Build | Version | Download |
+|---|---|---|---|---|
+| [emudhra-security-patch](https://github.com/strongthium/emudhra-security-patch) | Finds eMudhra's G3B and G3C intermediate CAs, and the roots above them, in a computer's trust stores and distrusts them. Windows and Linux. | [![Build and release](https://github.com/strongthium/emudhra-security-patch/actions/workflows/release.yml/badge.svg?branch=deploy)](https://github.com/strongthium/emudhra-security-patch/actions/workflows/release.yml) | [![Latest release](https://img.shields.io/github/v/release/strongthium/emudhra-security-patch?label=)](https://github.com/strongthium/emudhra-security-patch/releases/latest) | [Latest release](https://github.com/strongthium/emudhra-security-patch/releases/latest) |
+| [health-reminder](https://github.com/strongthium/health-reminder) | Reminds you, insistently, of pills, injections, blood sugar tests, meals and water, and shows what the very pill to take looks like (DailyMed, RxNorm and Health Canada, by name, NDC or DIN). Plans meals for one with kitchen alerts, keeps groceries and the kitchen's stock, sets exercise time aside, and helps cut down smoking step by step. Windows. | [![Build and release](https://github.com/strongthium/health-reminder/actions/workflows/release.yml/badge.svg?branch=deploy)](https://github.com/strongthium/health-reminder/actions/workflows/release.yml) | [![Latest release](https://img.shields.io/github/v/release/strongthium/health-reminder?label=)](https://github.com/strongthium/health-reminder/releases/latest) | [Latest release](https://github.com/strongthium/health-reminder/releases/latest) |
 
 ## Security
 
