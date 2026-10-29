@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://github.com/strongthium.png" width="96" alt="Strongthium Labs logo">
+  <img src="banner-2200x440.png" alt="Strongthium Labs logo">
 </p>
-
-<h1 align="center">Strongthium Labs</h1>
 
 <p align="center">
   <a href="https://strongthium.com"><img src="https://img.shields.io/badge/-strongthium.com-0E8C80?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
