@@ -5,11 +5,11 @@
 <h1 align="center">Strongthium Labs</h1>
 
 <p align="center">
-  <a href="https://strongthium.com"><img src="https://img.shields.io/badge/Website-strongthium.com-0E8C80?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
-  <a href="https://dev.to/strongthium"><img src="https://img.shields.io/badge/Dev.to-strongthium-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"></a>
-  <a href="https://x.com/strongthium"><img src="https://img.shields.io/badge/X-@strongthium-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://www.youtube.com/@StrongthiumLabs"><img src="https://img.shields.io/badge/YouTube-@StrongthiumLabs-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://www.facebook.com/Strongthium-Labs"><img src="https://img.shields.io/badge/Facebook-Strongthium_Labs-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://strongthium.com"><img src="https://img.shields.io/badge/-strongthium.com-0E8C80?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://dev.to/strongthium"><img src="https://img.shields.io/badge/--0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"></a>
+  <a href="https://x.com/strongthium"><img src="https://img.shields.io/badge/--000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.youtube.com/@StrongthiumLabs"><img src="https://img.shields.io/badge/--FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://bsky.app/profile/strongthium.com"><img src="https://img.shields.io/badge/--1877F2?style=for-the-badge&logo=bluesky&logoColor=white" alt="Facebook"></a>
 </p>
 
 <!-- TODO: one or two sentences on what Strongthium Labs builds and for whom. -->
