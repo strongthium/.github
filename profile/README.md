@@ -81,6 +81,25 @@
   <tr>
     <td width="96" align="center" valign="top">
       <br>
+      <a href="https://github.com/strongthium/host-dossier"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/dark/dossier.svg"><img src="icons/light/dossier.svg" width="56" height="56" alt="Strongthium Host Dossier icon"></picture></a>
+    </td>
+    <td valign="top">
+
+### [Strongthium Host Dossier](https://github.com/strongthium/host-dossier)
+
+**Domain and IP lookup tool for Windows and Linux.** Enter a domain or an address and see who owns it and where it runs: WHOIS and RDAP, DNS records, ASN, country and reverse DNS for every IP, an SSL/TLS test of protocols, ciphers and certificates like SSL Labs, and a port scan with what's listening. Checks mail in full: SPF down to every allowed IP, DKIM, DMARC, BIMI and VMC, MTA-STS, DANE and RBL blacklists. With your Cloudflare token, shows the real origin IPs behind the proxy, then follows every related domain it finds.
+
+<a href="https://github.com/strongthium/host-dossier/releases/latest"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/dark/download.svg"><img src="icons/light/download.svg" width="124" height="36" alt="Download Strongthium Host Dossier"></picture></a>
+<br>
+<a href="https://github.com/strongthium/host-dossier/actions/workflows/release.yml"><img src="https://github.com/strongthium/host-dossier/actions/workflows/release.yml/badge.svg?branch=deploy" alt="Build status"></a>
+<img src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux-4F6BF5?style=flat-square" alt="Windows and Linux">
+<img src="https://img.shields.io/badge/license-MIT-8B5CF6?style=flat-square" alt="MIT license">
+
+</td>
+  </tr>
+  <tr>
+    <td width="96" align="center" valign="top">
+      <br>
       <a href="https://github.com/strongthium/outbound-watch"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/dark/outbound.svg"><img src="icons/light/outbound.svg" width="56" height="56" alt="Strongthium Outbound Watch icon"></picture></a>
     </td>
     <td valign="top">
