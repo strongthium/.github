@@ -105,25 +105,33 @@ Strongthium Labs also makes software for running your own servers and talking to
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://strongthium.com/linux-server-firewall"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/dark/guard.svg"><img src="icons/light/guard.svg" width="48" height="48" align="left" alt="Strongthium Guard icon"></picture></a>
+    <td width="64" align="center" valign="top">
+      <a href="https://strongthium.com/linux-server-firewall"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/dark/guard.svg"><img src="icons/light/guard.svg" width="48" height="48" alt="Strongthium Guard icon"></picture></a>
+    </td>
+    <td valign="top">
       <a href="https://strongthium.com/linux-server-firewall"><b>Strongthium Guard</b></a><br>
       <sub><b>Linux server firewall.</b> Locks down your Linux servers, reads their logs and shuts out whoever attacks them, within seconds.</sub>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://strongthium.com/self-hosted-mail-server"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/dark/mail.svg"><img src="icons/light/mail.svg" width="48" height="48" align="left" alt="Strongthium Mail icon"></picture></a>
+    <td width="64" align="center" valign="top">
+      <a href="https://strongthium.com/self-hosted-mail-server"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/dark/mail.svg"><img src="icons/light/mail.svg" width="48" height="48" alt="Strongthium Mail icon"></picture></a>
+    </td>
+    <td valign="top">
       <a href="https://strongthium.com/self-hosted-mail-server"><b>Strongthium Mail</b></a><br>
       <sub><b>Self-hosted mail server for Linux and Windows.</b> Receives, checks and sends your mail, and tells you exactly why it refused what it refused.</sub>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://strongthium.com/self-hosted-live-chat"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/dark/chat.svg"><img src="icons/light/chat.svg" width="48" height="48" align="left" alt="Strongthium Chat icon"></picture></a>
+    <td width="64" align="center" valign="top">
+      <a href="https://strongthium.com/self-hosted-live-chat"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/dark/chat.svg"><img src="icons/light/chat.svg" width="48" height="48" alt="Strongthium Chat icon"></picture></a>
+    </td>
+    <td valign="top">
       <a href="https://strongthium.com/self-hosted-live-chat"><b>Strongthium Chat</b></a><br>
       <sub><b>Self-hosted live chat for Linux and Windows.</b> A chat on your websites and text messages in one inbox, answered from Windows or a browser.</sub>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://strongthium.com/windows-ssh-client"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/dark/remote.svg"><img src="icons/light/remote.svg" width="48" height="48" align="left" alt="Strongthium Remote icon"></picture></a>
+    <td width="64" align="center" valign="top">
+      <a href="https://strongthium.com/windows-ssh-client"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/dark/remote.svg"><img src="icons/light/remote.svg" width="48" height="48" alt="Strongthium Remote icon"></picture></a>
+    </td>
+    <td valign="top">
       <a href="https://strongthium.com/windows-ssh-client"><b>Strongthium Remote</b></a><br>
       <sub><b>Windows SSH client.</b> SSH terminal, file manager, editor, server task manager, database client and remote desktop in tabs, in one program.</sub>
     </td>
