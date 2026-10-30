@@ -106,7 +106,7 @@
 
 ### [Strongthium Outbound Watch](https://github.com/strongthium/outbound-watch)
 
-**Outbound connection monitor for Windows.** Watches where your PC connects to: for every outgoing connection, the program, the name it looked up, the address, the network and country, how long it was open and how much it sent and received, live and as history. List the places you expect programs to connect to, and the tray tells you when one connects somewhere else. One file of about 3 MB, nothing to install, and it sends nothing anywhere.
+**Outbound connection monitor for Windows.** Watches where your PC connects to: for every outgoing connection, the program, the name it looked up, the address, the network and country, how long it was open and how much it sent and received, live and as history. List the places you expect programs to connect to, and the tray tells you when one connects somewhere else. One file of about 3 MB, nothing to install, and it sends nothing about your connections anywhere.
 
 <a href="https://github.com/strongthium/outbound-watch/releases/latest"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/dark/download.svg"><img src="icons/light/download.svg" width="124" height="36" alt="Download Strongthium Outbound Watch"></picture></a>
 <br>
