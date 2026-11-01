@@ -116,6 +116,25 @@
 
 </td>
   </tr>
+  <tr>
+    <td width="96" align="center" valign="top">
+      <br>
+      <a href="https://github.com/strongthium/webdav-server"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/dark/webdav.svg"><img src="icons/light/webdav.svg" width="56" height="56" alt="Strongthium WebDAV Server icon"></picture></a>
+    </td>
+    <td valign="top">
+
+### [Strongthium WebDAV Server](https://github.com/strongthium/webdav-server)
+
+**Self-hosted WebDAV server for Linux and Windows.** Upload, download and sync files, stored by user, by path or both, with Nextcloud compatibility on the same address. Bans repeated failed logins per path, whitelists by IP, ASN or country and cuts off anything outside the list as soon as it connects. Runs behind nginx or Cloudflare, and you run it from a program on Windows.
+
+<a href="https://github.com/strongthium/webdav-server/releases/latest"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/dark/download.svg"><img src="icons/light/download.svg" width="124" height="36" alt="Download Strongthium WebDAV Server"></picture></a>
+<br>
+<a href="https://github.com/strongthium/webdav-server/actions/workflows/release.yml"><img src="https://github.com/strongthium/webdav-server/actions/workflows/release.yml/badge.svg?branch=deploy" alt="Build status"></a>
+<img src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux-4F6BF5?style=flat-square" alt="Windows and Linux">
+<img src="https://img.shields.io/badge/license-MIT-8B5CF6?style=flat-square" alt="MIT license">
+
+</td>
+  </tr>
 </table>
 
 ## More from Strongthium
