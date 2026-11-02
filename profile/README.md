@@ -119,6 +119,25 @@
   <tr>
     <td width="96" align="center" valign="top">
       <br>
+      <a href="https://github.com/strongthium/video-dispatch"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/dark/video.svg"><img src="icons/light/video.svg" width="56" height="56" alt="Strongthium Video Dispatch icon"></picture></a>
+    </td>
+    <td valign="top">
+
+### [Strongthium Video Dispatch](https://github.com/strongthium/video-dispatch)
+
+**TikTok and YouTube uploader and video editor for Windows.** Choose one video, write what goes with it once, and queue it to TikTok, YouTube and YouTube Shorts, with schedules, presets and uploads that pick up where they stopped. Cut, trim, join, fade, zoom, slow down and speed up clips, add music and words, even out the sound, and compress or re-encode to MP4 with Windows' own tools. Your videos go from your PC to your own TikTok and Google apps, with no server in between.
+
+<a href="https://github.com/strongthium/video-dispatch/releases/latest"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/dark/download.svg"><img src="icons/light/download.svg" width="124" height="36" alt="Download Strongthium Video Dispatch"></picture></a>
+<br>
+<a href="https://github.com/strongthium/video-dispatch/actions/workflows/release.yml"><img src="https://github.com/strongthium/video-dispatch/actions/workflows/release.yml/badge.svg?branch=deploy" alt="Build status"></a>
+<img src="https://img.shields.io/badge/platform-Windows-4F6BF5?style=flat-square" alt="Windows">
+<img src="https://img.shields.io/badge/license-MIT-8B5CF6?style=flat-square" alt="MIT license">
+
+</td>
+  </tr>
+  <tr>
+    <td width="96" align="center" valign="top">
+      <br>
       <a href="https://github.com/strongthium/webdav-server"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/dark/webdav.svg"><img src="icons/light/webdav.svg" width="56" height="56" alt="Strongthium WebDAV Server icon"></picture></a>
     </td>
     <td valign="top">
