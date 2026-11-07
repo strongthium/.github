@@ -119,6 +119,25 @@
   <tr>
     <td width="96" align="center" valign="top">
       <br>
+      <a href="https://github.com/strongthium/raw-convert"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/dark/camera.svg"><img src="icons/light/camera.svg" width="56" height="56" alt="Strongthium RAW Convert icon"></picture></a>
+    </td>
+    <td valign="top">
+
+### [Strongthium RAW Convert](https://github.com/strongthium/raw-convert)
+
+**Batch CR2 to PNG and TIFF converter for Windows.** Converts a folder of Canon CR2 RAW photos, and every folder inside it, into lossless PNG or TIFF files at full size, ready for Amazon Photos or anywhere else that won't take RAW. Keeps the date taken, camera, lens, exposure and GPS, turns portrait shots the right way up, and picks up where it stopped. A command-line tool of about 300 KB: Windows itself develops the RAW.
+
+<a href="https://github.com/strongthium/raw-convert/releases/latest"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/dark/download.svg"><img src="icons/light/download.svg" width="124" height="36" alt="Download Strongthium RAW Convert"></picture></a>
+<br>
+<a href="https://github.com/strongthium/raw-convert/actions/workflows/release.yml"><img src="https://github.com/strongthium/raw-convert/actions/workflows/release.yml/badge.svg?branch=deploy" alt="Build status"></a>
+<img src="https://img.shields.io/badge/platform-Windows-4F6BF5?style=flat-square" alt="Windows">
+<img src="https://img.shields.io/badge/license-MIT-8B5CF6?style=flat-square" alt="MIT license">
+
+</td>
+  </tr>
+  <tr>
+    <td width="96" align="center" valign="top">
+      <br>
       <a href="https://github.com/strongthium/video-dispatch"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/dark/video.svg"><img src="icons/light/video.svg" width="56" height="56" alt="Strongthium Video Dispatch icon"></picture></a>
     </td>
     <td valign="top">
