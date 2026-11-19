@@ -177,7 +177,7 @@
 
 ## More from Strongthium
 
-Strongthium Labs also makes software for running your own servers and Windows PCs, and for talking to your customers, at [strongthium.com](https://strongthium.com):
+Strongthium Labs also makes software for running your own servers and Windows PCs, for talking to your customers, and for billing your hours, at [strongthium.com](https://strongthium.com):
 
 <table>
   <tr>
